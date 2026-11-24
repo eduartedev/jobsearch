@@ -23,4 +23,3 @@ Abre `https://jobsearch.test:8443`, regístrate y ve a **IA** para elegir provee
 ## Seguridad
 
 - La API key de Claude se guarda cifrada por usuario y no se reexpone en la UI.
-- No subas `.env` ni keys al remoto.
