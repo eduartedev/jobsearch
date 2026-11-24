@@ -2,7 +2,7 @@
 
 UI local (Laravel + Vue/Inertia) para búsqueda de empleo con proveedor de IA híbrido: **Ollama** o **Claude**.
 
-Inspirado en [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search).
+Inspirado en [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search), pero es un proyecto aparte (no un fork).
 
 ## Requisitos
 
@@ -23,3 +23,4 @@ Abre `https://jobsearch.test:8443`, regístrate y ve a **IA** para elegir provee
 ## Seguridad
 
 - La API key de Claude se guarda cifrada por usuario y no se reexpone en la UI.
+- No subas `.env` ni keys al remoto.
