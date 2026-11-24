@@ -2,7 +2,7 @@
 
 UI local (Laravel + Vue/Inertia) para búsqueda de empleo con proveedor de IA híbrido: **Ollama** o **Claude**.
 
-Inspirado en [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search), pero es un proyecto aparte (no un fork).
+Inspirado en [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search).
 
 ## Requisitos
 
